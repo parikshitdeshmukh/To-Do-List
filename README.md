@@ -1,4 +1,4 @@
-# todo-list-js
-Blog post tutorial writeup: http://seanoneill.me/yet-another-javascript-todo-list-tutorial/
+# To Do List using Javascipt
 
-Demo: http://seanoneill.me/demos/todo-list-js/index.html
+This is a simple To Do list web app using javascript 
+Demo:
